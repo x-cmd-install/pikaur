@@ -2,13 +2,13 @@ about:
   description: "AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction."
   license: GPL-3.0
   homepage: 
-  head: 11ec6d8
+  head: 6edf6ca
   archived: false
   latestVersion: "1.33.3"
-  collectedAt: 2026-09-07T04:38:25Z
+  collectedAt: 2026-09-07T19:48:59Z
 timeline:
   created: 2018-01-29
-  lastCommit: 2026-09-06
+  lastCommit: 2026-09-07
   lastRelease: 2026-03-07
 popularity:
   star: 955
@@ -16,74 +16,74 @@ popularity:
   fork: 92
   release: 71
   contributor: 79
-  pullRequest: 233
-  issue: 672
+  pullRequest: 234
+  issue: 673
 language:
-  Python: 657290
-  Shell: 35888
-  Makefile: 6072
+  Python: 657288
+  Shell: 35884
+  Makefile: 6075
   Dockerfile: 5341
   Vim Script: 269
-totalBytes: 704860
+totalBytes: 704857
 recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 0
+    mergedPR: 1
     openPR: 0
-    closedIssue: 3
+    closedIssue: 4
     openIssue: 0
-    commit: 22
+    commit: 24
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 0
-    openPR: 1
-    closedIssue: 3
-    openIssue: 1
-    commit: 22
-  last90d:
-    since: 2026-06-09
-    release: 0
-    mergedPR: 0
+    mergedPR: 1
     openPR: 1
     closedIssue: 4
     openIssue: 1
-    commit: 22
-  last180d:
-    since: 2026-03-11
+    commit: 24
+  last90d:
+    since: 2026-06-09
     release: 0
-    mergedPR: 0
+    mergedPR: 1
     openPR: 1
     closedIssue: 5
     openIssue: 1
-    commit: 22
+    commit: 24
+  last180d:
+    since: 2026-03-11
+    release: 0
+    mergedPR: 1
+    openPR: 1
+    closedIssue: 6
+    openIssue: 1
+    commit: 24
   last360d:
     since: 2025-09-12
     release: 2
-    mergedPR: 4
+    mergedPR: 5
     openPR: 1
-    closedIssue: 11
+    closedIssue: 12
     openIssue: 4
-    commit: 46
+    commit: 48
   last720d:
     since: 2024-09-17
     release: 12
-    mergedPR: 12
+    mergedPR: 13
     openPR: 1
-    closedIssue: 50
+    closedIssue: 51
     openIssue: 12
-    commit: 181
+    commit: 183
 total:
   release: 71
-  mergedPR: 193
+  mergedPR: 194
   openPR: 1
-  closedIssue: 623
+  closedIssue: 624
   openIssue: 49
-  commit: 3161
+  commit: 3163
 ---
 path: /home/runner/.x-repo/github.com/actionless/pikaur
-collectedAt: 2026-09-07T04:38:27Z
+collectedAt: 2026-09-07T19:49:00Z
 loc:
   Python:
     code: 15767
@@ -234,7 +234,7 @@ checks:
       - 'Warn: 0 commits out of 5 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:38:28+00:00
+  collectedAt: 2026-09-07T19:49:01+00:00
   platform:
     darwin/arm64:
       name:  null
