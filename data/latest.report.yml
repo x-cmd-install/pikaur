@@ -5,13 +5,13 @@ about:
   head: 6edf6ca
   archived: false
   latestVersion: "1.33.3"
-  collectedAt: 2026-09-08T01:49:13Z
+  collectedAt: 2026-09-08T04:47:28Z
 timeline:
   created: 2018-01-29
   lastCommit: 2026-09-07
   lastRelease: 2026-03-07
 popularity:
-  star: 955
+  star: 956
   watcher: 18
   fork: 92
   release: 71
@@ -83,7 +83,7 @@ total:
   commit: 3163
 ---
 path: /home/runner/.x-repo/github.com/actionless/pikaur
-collectedAt: 2026-09-08T01:49:15Z
+collectedAt: 2026-09-08T04:47:29Z
 loc:
   Python:
     code: 15767
