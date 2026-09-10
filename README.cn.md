@@ -4,7 +4,7 @@
 
 AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build them all without user interaction.
 
-![pikaur](https://repo.x-cmd.io/pikaur.svg)
+![pikaur](https://repo.x-cmd.io/pikaur.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,12 @@ x install pikaur
 - **最新版本**: `1.33.3` (2026-03-07)
 - **最近提交**: 2026-09-07
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-03-07T17:01:34Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pikaur-static-v1.33.3.linux-x86_64.py313.exe](https://github.com/actionless/pikaur/releases/download/1.33.3/pikaur-static-v1.33.3.linux-x86_64.py313.exe) | 31.8 MiB | `native/linux/x64` |
 
 ## 流行度
 
@@ -71,4 +76,4 @@ pikaur 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:46:13Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:21:03Z._
