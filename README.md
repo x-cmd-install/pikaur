@@ -12,46 +12,13 @@ AUR helper with minimal dependencies. Review PKGBUILDs all in once, next build t
 x install pikaur
 ```
 
-## Source
+## Code insight
 
-- **Upstream**: <https://github.com/actionless/pikaur>
-- **License**: GPL-3.0
-
-## Release
-
-- **Latest**: `1.33.3` (2026-03-07)
-- **Last commit**: 2026-09-07
-- **Assets in release**: 1
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [pikaur-static-v1.33.3.linux-x86_64.py313.exe](https://github.com/actionless/pikaur/releases/download/1.33.3/pikaur-static-v1.33.3.linux-x86_64.py313.exe) | 31.8 MiB | `native/linux/x64` |
-
-## Popularity
-
-- **Stars**: 956 · **Forks**: 92 · **Open issues**: 673 · **Contributors**: 79
-
-## Totals (cumulative)
-
-- **Releases**: 71 · **Merged PRs**: 194 · **Open PRs**: 1 · **Closed issues**: 624 · **Open issues**: 49 · **Commits**: 3163
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 0 | 3 | 0 | 24 |
-| 90d | 2026-06-12 | 0 | 1 | 1 | 5 | 1 | 24 |
-| 360d | 2025-09-15 | 2 | 5 | 1 | 12 | 4 | 48 |
-
-## Code size
-
-Total: **16,933** lines of code across **105** files in the top 5 languages.
+Total: **16,947** lines of code across **105** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,767 | 715 | 2,501 | 93 |
+| Python | 15,781 | 715 | 2,502 | 93 |
 | Sh | 363 | 32 | 62 | 8 |
 | Toml | 307 | 14 | 36 | 1 |
 | Fish | 219 | 35 | 42 | 2 |
@@ -67,6 +34,42 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/actionless/pikaur>
+- **License**: GPL-3.0
+
+## Release
+
+- **Latest**: `1.34` (2026-09-10)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 1
+
+## Popularity
+
+- **Stars**: 956 · **Forks**: 92 · **Open issues**: 673 · **Contributors**: 80
+
+## Totals (cumulative)
+
+- **Releases**: 72 · **Merged PRs**: 195 · **Open PRs**: 0 · **Closed issues**: 624 · **Open issues**: 49 · **Commits**: 3164
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 1 | 0 | 3 | 0 | 25 |
+| last60d | 2026-07-12 | 1 | 2 | 0 | 4 | 1 | 25 |
+| 90d | 2026-06-12 | 1 | 2 | 0 | 5 | 1 | 25 |
+| last180d | 2026-03-14 | 1 | 2 | 0 | 6 | 1 | 25 |
+| 360d | 2025-09-15 | 3 | 6 | 0 | 12 | 4 | 49 |
+| last720d | 2024-09-20 | 11 | 14 | 0 | 51 | 12 | 168 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pikaur-static-v1.34.linux-x86_64.exe](https://github.com/actionless/pikaur/releases/download/1.34/pikaur-static-v1.34.linux-x86_64.exe) | 10.7 MiB | `native/linux/x64` |
+
 ## Improve this data
 
 Install metadata for pikaur lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pikaur` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +79,4 @@ Install metadata for pikaur lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:21:02Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:08:25Z._
