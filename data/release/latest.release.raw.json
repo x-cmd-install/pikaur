@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11201256,
       "digest": "sha256:b825792f1dbea0f4ec9161e67d90bb5d65bc5552bfe0c2d1a5af796693c95806",
-      "download_count": 5,
+      "download_count": 8,
       "created_at": "2026-09-10T18:03:28Z",
       "updated_at": "2026-09-10T18:03:31Z",
       "browser_download_url": "https://github.com/actionless/pikaur/releases/download/1.34/pikaur-static-v1.34.linux-x86_64.exe"
@@ -75,5 +75,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/actionless/pikaur/tarball/1.34",
   "zipball_url": "https://api.github.com/repos/actionless/pikaur/zipball/1.34",
-  "body": ""
+  "body": "",
+  "reactions": {
+    "url": "https://api.github.com/repos/actionless/pikaur/releases/386510755/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
