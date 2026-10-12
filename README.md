@@ -14,13 +14,13 @@ x install pikaur
 
 ## Code insight
 
-Total: **16,947** lines of code across **105** files in the top 5 languages.
+Total: **16,945** lines of code across **105** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 15,781 | 715 | 2,502 | 93 |
+| Python | 15,778 | 715 | 2,502 | 93 |
 | Sh | 363 | 32 | 62 | 8 |
-| Toml | 307 | 14 | 36 | 1 |
+| Toml | 308 | 15 | 35 | 1 |
 | Fish | 219 | 35 | 42 | 2 |
 | Makefile | 166 | 38 | 36 | 1 |
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.34` (2026-09-10)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-10-12
 - **Assets in release**: 1
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 195 · **Open PRs**: 0 · **Closed issues**: 624 · **Open issues**: 49 · **Commits**: 3166
+- **Releases**: 72 · **Merged PRs**: 195 · **Open PRs**: 0 · **Closed issues**: 624 · **Open issues**: 49 · **Commits**: 3171
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 1 | 1 | 0 | 2 | 0 | 27 |
-| 90d | 2026-07-13 | 1 | 2 | 0 | 4 | 1 | 27 |
-| last180d | 2026-04-14 | 1 | 2 | 0 | 6 | 1 | 27 |
-| 360d | 2025-10-16 | 3 | 6 | 0 | 12 | 4 | 49 |
-| last720d | 2024-10-21 | 8 | 13 | 0 | 48 | 11 | 152 |
+| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 5 |
+| last60d | 2026-08-13 | 1 | 1 | 0 | 2 | 0 | 32 |
+| 90d | 2026-07-14 | 1 | 2 | 0 | 4 | 1 | 32 |
+| last180d | 2026-04-15 | 1 | 2 | 0 | 6 | 1 | 32 |
+| 360d | 2025-10-17 | 3 | 6 | 0 | 12 | 4 | 54 |
+| last720d | 2024-10-22 | 8 | 13 | 0 | 48 | 11 | 157 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pikaur lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T05:43:39Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T05:56:49Z._
