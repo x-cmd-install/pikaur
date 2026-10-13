@@ -14,7 +14,7 @@ x install pikaur
 
 ## 代码洞察
 
-合计: **16,945** 行代码（覆盖前 5 种语言、共 **105** 个文件）。
+合计: **16,943** 行代码（覆盖前 5 种语言、共 **105** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -22,7 +22,7 @@ x install pikaur
 | Sh | 363 | 32 | 62 | 8 |
 | Toml | 308 | 15 | 35 | 1 |
 | Fish | 219 | 35 | 42 | 2 |
-| Makefile | 166 | 38 | 36 | 1 |
+| Makefile | 164 | 38 | 36 | 1 |
 
 ## OpenSSF Scorecard 评分
 
@@ -30,8 +30,8 @@ x install pikaur
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,22 +47,22 @@ x install pikaur
 
 ## 流行度
 
-- **Star**: 959 · **Fork**: 91 · **开放 issue**: 673 · **贡献者**: 79
+- **Star**: 960 · **Fork**: 91 · **开放 issue**: 673 · **贡献者**: 79
 
 ## 累计统计
 
-- **发布数**: 72 · **已合并 PR**: 195 · **开放 PR**: 0 · **已关闭 issue**: 624 · **开放 issue**: 49 · **提交数**: 3171
+- **发布数**: 72 · **已合并 PR**: 195 · **开放 PR**: 0 · **已关闭 issue**: 624 · **开放 issue**: 49 · **提交数**: 3175
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-13 | 1 | 1 | 0 | 2 | 0 | 32 |
-| 90d | 2026-07-14 | 1 | 2 | 0 | 4 | 1 | 32 |
-| last180d | 2026-04-15 | 1 | 2 | 0 | 6 | 1 | 32 |
-| 360d | 2025-10-17 | 3 | 6 | 0 | 12 | 4 | 54 |
-| last720d | 2024-10-22 | 8 | 13 | 0 | 48 | 11 | 157 |
+| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-14 | 1 | 1 | 0 | 2 | 0 | 36 |
+| 90d | 2026-07-15 | 1 | 2 | 0 | 4 | 1 | 36 |
+| last180d | 2026-04-16 | 1 | 2 | 0 | 6 | 1 | 36 |
+| 360d | 2025-10-18 | 3 | 6 | 0 | 12 | 4 | 58 |
+| last720d | 2024-10-23 | 8 | 13 | 0 | 48 | 11 | 161 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ pikaur 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T05:56:50Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:06:36Z._
