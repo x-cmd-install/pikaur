@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-08-16 | 1 | 1 | 0 | 2 | 0 | 36 |
-| 90d | 2026-07-17 | 1 | 2 | 0 | 4 | 1 | 36 |
-| last180d | 2026-04-18 | 1 | 2 | 0 | 6 | 1 | 36 |
-| 360d | 2025-10-20 | 3 | 6 | 0 | 12 | 4 | 58 |
-| last720d | 2024-10-25 | 8 | 13 | 0 | 48 | 11 | 161 |
+| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-17 | 1 | 1 | 0 | 2 | 0 | 36 |
+| 90d | 2026-07-18 | 1 | 2 | 0 | 4 | 1 | 36 |
+| last180d | 2026-04-19 | 1 | 2 | 0 | 6 | 1 | 36 |
+| 360d | 2025-10-21 | 3 | 6 | 0 | 12 | 4 | 58 |
+| last720d | 2024-10-26 | 8 | 13 | 0 | 48 | 11 | 161 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pikaur lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:36:06Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:34:09Z._
