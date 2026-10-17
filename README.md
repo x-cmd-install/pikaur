@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 960 · **Forks**: 91 · **Open issues**: 673 · **Contributors**: 79
+- **Stars**: 959 · **Forks**: 92 · **Open issues**: 673 · **Contributors**: 79
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 195 · **Open PRs**: 0 · **Closed issues**: 624 · **Open issues**: 49 · **Commits**: 3175
+- **Releases**: 72 · **Merged PRs**: 195 · **Open PRs**: 1 · **Closed issues**: 624 · **Open issues**: 49 · **Commits**: 3175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 0 | 0 | 0 | 0 | 0 | 9 |
-| last60d | 2026-08-17 | 1 | 1 | 0 | 2 | 0 | 36 |
-| 90d | 2026-07-18 | 1 | 2 | 0 | 4 | 1 | 36 |
-| last180d | 2026-04-19 | 1 | 2 | 0 | 6 | 1 | 36 |
-| 360d | 2025-10-21 | 3 | 6 | 0 | 12 | 4 | 58 |
-| last720d | 2024-10-26 | 8 | 13 | 0 | 48 | 11 | 161 |
+| 30d | 2026-09-17 | 0 | 0 | 1 | 0 | 0 | 9 |
+| last60d | 2026-08-18 | 1 | 1 | 1 | 2 | 0 | 36 |
+| 90d | 2026-07-19 | 1 | 2 | 1 | 4 | 1 | 36 |
+| last180d | 2026-04-20 | 1 | 2 | 1 | 6 | 1 | 36 |
+| 360d | 2025-10-22 | 3 | 6 | 1 | 12 | 4 | 58 |
+| last720d | 2024-10-27 | 8 | 13 | 1 | 48 | 11 | 161 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pikaur lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:34:09Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:20:59Z._
