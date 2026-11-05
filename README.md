@@ -30,8 +30,8 @@ Overall score: **3.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 1 | 2 | 0 | 9 |
-| last60d | 2026-09-05 | 1 | 1 | 1 | 3 | 0 | 12 |
-| 90d | 2026-08-06 | 1 | 1 | 1 | 6 | 0 | 36 |
-| last180d | 2026-05-08 | 1 | 2 | 1 | 7 | 1 | 36 |
-| 360d | 2025-11-09 | 3 | 6 | 1 | 14 | 4 | 58 |
-| last720d | 2024-11-14 | 8 | 13 | 1 | 49 | 10 | 161 |
+| 30d | 2026-10-06 | 0 | 0 | 1 | 2 | 0 | 9 |
+| last60d | 2026-09-06 | 1 | 1 | 1 | 3 | 0 | 12 |
+| 90d | 2026-08-07 | 1 | 1 | 1 | 6 | 0 | 36 |
+| last180d | 2026-05-09 | 1 | 2 | 1 | 7 | 1 | 36 |
+| 360d | 2025-11-10 | 3 | 6 | 1 | 14 | 4 | 58 |
+| last720d | 2024-11-15 | 8 | 13 | 1 | 49 | 10 | 161 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pikaur lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:18:20Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:44:56Z._
