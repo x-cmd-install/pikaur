@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 72 · **Merged PRs**: 195 · **Open PRs**: 2 · **Closed issues**: 626 · **Open issues**: 50 · **Commits**: 3175
+- **Releases**: 72 · **Merged PRs**: 195 · **Open PRs**: 1 · **Closed issues**: 626 · **Open issues**: 50 · **Commits**: 3175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 1 | 1 | 1 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 2 | 2 | 1 | 9 |
-| 90d | 2026-08-25 | 1 | 1 | 2 | 4 | 1 | 36 |
-| last180d | 2026-05-27 | 1 | 2 | 2 | 7 | 2 | 36 |
-| 360d | 2025-11-28 | 3 | 5 | 2 | 14 | 5 | 58 |
-| last720d | 2024-12-03 | 8 | 13 | 2 | 47 | 11 | 159 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 1 | 2 | 1 | 9 |
+| 90d | 2026-08-26 | 1 | 1 | 1 | 4 | 1 | 36 |
+| last180d | 2026-05-28 | 1 | 2 | 1 | 7 | 2 | 36 |
+| 360d | 2025-11-29 | 3 | 5 | 1 | 14 | 5 | 58 |
+| last720d | 2024-12-04 | 8 | 13 | 1 | 46 | 11 | 159 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for pikaur lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:48:33Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:59:11Z._
